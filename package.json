@@ -3,13 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-=======
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
->>>>>>> 26bb8b25be2115d208c231ecc8b3f91cf6f220f0
     "react-scripts": "^4.0.3",
     "tachyons": "^4.12.0"
   },
